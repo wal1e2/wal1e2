@@ -164,12 +164,20 @@
 [![wal1e2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wal1e2&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/wal1e2/github-readme-activity-graph)
 
 
-
 </p>
     <br /> 
     <br />
     <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=wal1e2&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="wal1e2"></center>
     </p>
-    
+
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wal1e2&theme=bear" width=750  alt="wal1e2 stats graph"/>
+
+</div>
+
 </details>
+
+<img src="https://imgur.com/rilHVxA.png"/> 
+
