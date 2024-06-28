@@ -41,6 +41,14 @@ Passionate software engineer with approximately one year of commercial experienc
 </details>
 
 
+
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=wal1e2)
+
+
+
+
+
 <br />
 
 <details>
@@ -54,7 +62,7 @@ Passionate software engineer with approximately one year of commercial experienc
     <br />
 </details>
 
-
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=wal1e2&repo=whatsapp-bot-md&theme=radical)
 
 ![](https://activity-graph.herokuapp.com/graph?username=wal1e2&theme=redical)
 
@@ -65,3 +73,8 @@ Passionate software engineer with approximately one year of commercial experienc
   <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
 </p>
 
+[![wal1e2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wal1e2&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/wal1e2/github-readme-activity-graph)
+
+
+### 🔝 My top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=wal1e2&limit=5&theme=flat&combine_all_yearly_contributions=true)
