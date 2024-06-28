@@ -1,7 +1,4 @@
-<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="50"
-                            width="45" /> there, I'm <a href="https://wal1e2.github.io"> wal1e2</a> </h1>
+<h1 align="center" >Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> there, I'm <a href="https://wal1e2.github.io"> wal1e2</a> </h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Grace%F0%9F%92%8C+and+peace%F0%9F%95%8A%EF%B8%8F+to+you;From+God+our+father;And+our+lord+jesus+christ;+Have+faith+in+GOD;+Have+faith+In+jesus;+whom+he+has+sent;may+the+lord+of+peace+himself;give+you+peace+at+all+times;and+in+all+ways;the+lord+be+with+you+all" />
@@ -21,9 +18,85 @@
 </p>
 
 
-### ✨ About me
 
-Passionate software engineer with approximately one year of commercial experience, dedicated to app development and software craftsmanship. A continuous pursuit of clean code, solid architecture, and software development best practices has characterized my career. I'm into digital education and creativity to share my knowledge and explore new concepts. Join me in unleashing technology's potential.
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+
+- 📖 **Web Development**\
+📆 2023 - moment\
+📍 **federal university of technology akure** - ondo, Nigeria
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+
+
+- 👨‍💻 **Cross Mobile Developer**\
+📆 2023 - moment\
+📍 **Lagos** - nigeria, Africa
+
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Systems Analyst and Front End Developer**\
+📆 2024 - moment\
+📍 **Web Works** - lagos, Nigeria
+
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+
+
+- 👨‍💻 **Office Assistant**\
+📆 2021 - 2023\
+📍 **funsnacks** - Mushin, lagos
+
+<!--## Skills
+
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+
+**Programming**
+
+<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+
+**Operating Systems**
+
+<img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
+<img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
+
+-->
+
+</details>
+
+
+
+
+
 
 
 
