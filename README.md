@@ -1,4 +1,4 @@
-<h1 align="center" >Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> there, I'm <a href="https://wal1e2.github.io"> wal1e2</a> </h1>
+<h1 align="center" >Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> there, I'm <a href="https://wal1e2.github.io"> wal1e2</a> </h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Grace%F0%9F%92%8C+and+peace%F0%9F%95%8A%EF%B8%8F+to+you;From+God+our+father;And+our+lord+jesus+christ;+Have+faith+in+GOD;+Have+faith+In+jesus;+whom+he+has+sent;may+the+lord+of+peace+himself;give+you+peace+at+all+times;and+in+all+ways;the+lord+be+with+you+all" />
