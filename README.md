@@ -95,11 +95,6 @@
 
 
 
-
-
-
-
-
 <details>
     <summary><b>🛠️ Languages and Tools⚙️</b></summary>
     <br />
@@ -114,40 +109,67 @@
 </details>
 
 
-
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=wal1e2)
-
-
-
-
+<details>
+  <summary>📈 My stats🥉🏆 </summary>
 
 <br />
+    <p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=wal1e2&theme=bear&showIcons=true">
+    <img  alt="wal1e2's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/wal1e2?theme=bear" />
+  </a>
 
-<details>
-    <summary><b>📊My GitHub🔦 Stats📈</b></summary>
+</p>
+    <br /> 
     <br />
-    <a href="http://www.github.com/wal1e2"><img src="https://github-readme-stats.vercel.app/api?username=wal1e2&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="wal1e2's GitHub stats" /></a>
-    <br />    
+    <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wal1e2" alt="wal1e2"></center>
+    </p>
+
+<br />
+    <br />
+    <p align="center">
     <a href="http://www.github.com/wal1e2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wal1e2&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of wal1e2's GitHub stats" /></a>
-    <br />
+        </p>
+        
+<br />
+        <br />
+         <p align="center">
     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <br />
-</details>
+     </p>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=wal1e2&repo=whatsapp-bot-md&theme=radical)
+
+</p>
+    <br /> 
+    <br />
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wal1e2&repo=whatsapp-bot-md&theme=radical" alt="wal1e2"></center>
+    </p>
+
+</details>    
 
 ![](https://activity-graph.herokuapp.com/graph?username=wal1e2&theme=redical)
 
 
 <hr>
-
+<br />
 <p align="center">
   <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
 </p>
 
+
+
+<details>
+  <summary>📈My Contribution graph and stats</summary>
+
 [![wal1e2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wal1e2&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/wal1e2/github-readme-activity-graph)
 
 
-### 🔝 My top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wal1e2&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+</p>
+    <br /> 
+    <br />
+    <p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=wal1e2&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="wal1e2"></center>
+    </p>
+    
+</details>
