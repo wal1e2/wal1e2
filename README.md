@@ -20,6 +20,8 @@
 <p align="center">
   <a href="https://twitter.com/SantaDavie"><img width="32px" alt="wal1e2" title="wal1e2" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/1245172687115128943" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <details>
