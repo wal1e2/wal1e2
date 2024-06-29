@@ -1,4 +1,4 @@
-<h1 align="center" >Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> there, I'm <a href="https://wal1e2.github.io"> wal1e2</a> </h1>
+<h1 align="center" >Hi <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="45" /> there, I'm <a href="https://wal1e2.github.io"> wal1e2</a> </h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Grace%F0%9F%92%8C+and+peace%F0%9F%95%8A%EF%B8%8F+to+you;From+God+our+father;And+our+lord+jesus+christ;+Have+faith+in+GOD;+Have+faith+In+jesus;+whom+he+has+sent;may+the+lord+of+peace+himself;give+you+peace+at+all+times;and+in+all+ways;the+lord+be+with+you+all" />
@@ -7,7 +7,6 @@
 <div align="center">
 <a href="mailto:olasehindeolawale2712@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wal1e2.wal1e2)
 
@@ -18,6 +17,10 @@
 </p>
 
 
+<p align="center">
+  <a href="https://twitter.com/SantaDavie"><img width="32px" alt="wal1e2" title="wal1e2" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <details>
   <summary>📃 Resume</summary>
