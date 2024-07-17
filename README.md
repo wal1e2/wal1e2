@@ -41,35 +41,19 @@
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
-- 📖 **Web Development**\
-📆 2023 - moment\
+- 📖 **Information Technology**\
+📆 2022 - moment\
 📍 **federal university of technology akure** - ondo, Nigeria
 
-## Experience
 
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-
-
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2023 - moment\
-📍 **Lagos** - nigeria, Africa
-
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2024 - moment\
-📍 **Web Works** - lagos, Nigeria
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+- 👨‍💻 **cashier**\
+📆 2022 - 2022\
+📍 **Bet shop** - lagos, Nigeria
 
 
-- 👨‍💻 **Office Assistant**\
-📆 2021 - 2023\
+
+- 👨‍💻 **Coating machine operator**\
+📆 2020 - 2021\
 📍 **funsnacks** - Mushin, lagos
 
 <!--## Skills
